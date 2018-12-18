@@ -1,13 +1,13 @@
-package com.erisonic.train.signupbackend;
+package com.train.todo.todo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SignupbackendApplication {
+public class TodoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SignupbackendApplication.class, args);
+		SpringApplication.run(TodoApplication.class, args);
 	}
 
 }
